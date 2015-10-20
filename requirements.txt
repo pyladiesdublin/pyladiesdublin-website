@@ -1,1 +1,1 @@
-https://www.djangoproject.com/download/1.7c2/tarball/#egg=Django
+Django==1.8.5
